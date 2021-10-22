@@ -7,7 +7,7 @@
 - 👯 Venho a criar alguns pacotes para o laravel.
 
 [![GitHub michelmelo](https://img.shields.io/github/followers/michelmelo?label=follow%20github&style=flat-square)](https://github.com/michelmelo)
-[![Twitter: machelmelo](https://img.shields.io/twitter/follow/ShitSecure?style=flat-square)](https://twitter.com/machelmelo)
+[![Twitter: machelmelo](https://img.shields.io/twitter/follow/machelmelo?style=flat-square)](https://twitter.com/machelmelo)
 ![profile counter](https://komarev.com/ghpvc/?username=michelmelo&color=brightgreen&style=flat-square)
 
 <!--p align="center">
