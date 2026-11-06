@@ -1,0 +1,83 @@
+{
+  "generatedAt": "2026-11-06T09:38:55.311Z",
+  "profile": {
+    "repos": 278,
+    "gists": 32,
+    "followers": 81,
+    "following": 265,
+    "since": 2009
+  },
+  "repos": {
+    "total": 277,
+    "own": 90,
+    "stars": 32,
+    "forks": 15,
+    "languageCount": 13,
+    "languages": [
+      [
+        "PHP",
+        43
+      ],
+      [
+        "outras",
+        19
+      ],
+      [
+        "JavaScript",
+        11
+      ],
+      [
+        "Dart",
+        5
+      ],
+      [
+        "Shell",
+        3
+      ],
+      [
+        "CSS",
+        2
+      ],
+      [
+        "Blade",
+        1
+      ],
+      [
+        "Kotlin",
+        1
+      ]
+    ]
+  },
+  "pub": {
+    "count": 3,
+    "likes": 17,
+    "downloads30d": 124,
+    "packages": [
+      {
+        "name": "flutter_miniplayer",
+        "likes": 11,
+        "downloads30d": 57
+      },
+      {
+        "name": "flutter_imagecards",
+        "likes": 2,
+        "downloads30d": 35
+      },
+      {
+        "name": "flutter_youtube_video_player",
+        "likes": 4,
+        "downloads30d": 32
+      }
+    ]
+  },
+  "week": {
+    "from": "2026-10-30",
+    "to": "2026-11-06",
+    "commits": 48,
+    "prsShipped": 2,
+    "prsMergedForOthers": 0,
+    "prsReviewed": 0,
+    "issuesClosed": 0,
+    "threadsCommented": 1
+  }
+}
